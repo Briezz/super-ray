@@ -1,0 +1,52 @@
+[
+  {
+    "id": "d3afbbde-c2c4-4c41-9152-11b7d6b539bb",
+    "name": "d3afbbde-c2c4-4c41-9152-11b7d6b539bb-Circle",
+    "metadata": {
+      "gruntify:style-type": "Point"
+    },
+    "source": "ba001354-03b6-4fff-9760-c2f988d3ec1b",
+    "maxzoom": 24,
+    "minzoom": 17,
+    "source-layer": "8527ad5b-7599-46f2-9352-4bdee4ff5ab0",
+    "type": "circle",
+    "filter": null,
+    "layout": null,
+    "paint": {
+      "circle-radius": 0,
+      "circle-color": "#ffffff",
+      "circle-opacity": 0,
+      "circle-stroke-width": 0,
+      "circle-stroke-color": "#ffffff",
+      "circle-stroke-opacity": 0
+    }
+  },
+  {
+    "id": "8f00aeaa-57ed-4cf0-ad7d-dc7e88bfc5a4",
+    "name": "8f00aeaa-57ed-4cf0-ad7d-dc7e88bfc5a4-Symbol",
+    "metadata": {
+      "gruntify:style-type": "Point"
+    },
+    "source": "ba001354-03b6-4fff-9760-c2f988d3ec1b",
+    "maxzoom": 24,
+    "minzoom": 17,
+    "source-layer": "8527ad5b-7599-46f2-9352-4bdee4ff5ab0",
+    "type": "symbol",
+    "filter": null,
+    "layout": {
+      "text-field": "{NUM_ADD}",
+      "text-font": [
+        "Noto Sans Bold"
+      ],
+      "text-justify": "center",
+      "text-size": 16,
+      "text-allow-overlap": false
+    },
+    "paint": {
+      "text-color": "#000000",
+      "text-halo-width": 0,
+      "text-halo-blur": 0,
+      "text-halo-color": "#fbffff"
+    }
+  }
+]
